@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently pursuing a Bachelor's Degree in Computer Science at Universidade Presbiteriana Mackenzie
+Atualmente estou cursando Bacharelado em Ciência da Computação na Universidade Presbiteriana Mackenzie. | I am currently pursuing a Bachelor's Degree in Computer Science at Universidade Presbiteriana Mackenzie.
 
 
 ## 🌐 Socials:
